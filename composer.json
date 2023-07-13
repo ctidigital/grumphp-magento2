@@ -15,8 +15,7 @@
     },
     "require": {
         "php": ">=7.0",
-        "phpro/grumphp": "~0.15",
-        "composer/composer": "^1.6",
+        "phpro/grumphp-shim": "*",
         "roma-glushko/monolog-parser": "^1.0"
     },
     "minimum-stability": "stable"
